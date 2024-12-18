@@ -1,6 +1,6 @@
 # The bash shell scripts to automation few task
 
-**Scripts**
+## **Scripts**
 1. Log Cleanup Script
 2. Backup Script
 3. System Update Script
